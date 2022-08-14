@@ -1,0 +1,532 @@
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.img1{
+    margin-top: 20px;
+}
+.section1{
+    background-image: url("/img/Rectangle\ 37.png");
+    background-size: 100%;
+   height: 100vh; 
+   
+}
+
+.nav_a{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+
+
+}
+
+.nav_a:hover{
+    color: #EE5514;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+.section1 .container{
+    display: flex;
+    text-align: center;
+
+    
+    
+}
+
+.nav_list{
+    display: flex;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.nav_a{
+    text-align: center;
+    margin: 0 18px;
+}
+
+.suu{
+    margin-left: 500px;
+    background-color: red;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+
+.img2{
+    margin-left: 700px;
+    animation-name: Rotation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    
+    animation-direction: alternate;
+}
+
+@keyframes Rotation{
+    from{
+       transform: translateX(200px) scale();
+    }
+
+    to{
+       transform: translate(100px);
+    }
+}
+
+
+
+.nav_h1{
+    margin-left: 200px; 
+}
+
+.nav_h2{
+  margin-left: 200px;
+  color: red;
+}
+
+.nav_p{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.img3{
+    margin-left: 90%;
+    margin-top: -600px;
+    border-radius: 40%;
+    background-color: #EE5514;
+    width: 20px;
+}
+
+.nav_list1{
+    display: flex;
+    margin-top: -40px;
+
+}
+
+.nav_list2{
+    display: flex;
+}
+
+.nav_p1{
+    margin: 0 30px;
+}
+
+.nav_h3{
+    margin: 0 30px;
+    margin-top: -45px;
+}
+
+
+
+
+.img4{
+    margin-left: 10px;
+}
+
+.img6{
+    margin-left: 10px;
+}
+
+.nav_list3{
+    margin-top: -300px;
+}
+
+.section2{
+    background-color:#fff;
+    width: 50%;
+    height: 100%;
+    margin-left: 100px;
+    margin-top: -30px;
+}
+
+.img10{
+    margin-left: 500px;
+    margin-top: 100px;
+
+}
+
+.h5{
+    color: red;
+    margin-top: -300px;
+}
+
+.h4{
+    margin-left: 400px;
+    color: #EE5514;
+}
+.h8{
+    margin-left: 200px;
+}
+
+.img20{
+    margin-top: 59px;
+    margin-left: -90px;
+}
+
+.section4{
+    margin-top: 500px;
+    margin-left: 300px;
+}
+
+.h90{
+    margin-left: -90px;
+    margin-top: 38px;
+}
+
+.nav_p5{
+    margin-top: 30px;
+    margin-left: -120px;
+}
+
+
+.h100{
+    color: #EE5514;
+    margin-left: -100px;
+    margin-top: 30px;
+}
+
+
+.img30{
+    margin-left: 30px;
+    margin-top: -65px;
+}
+
+
+.salom{
+    margin-left: 300px;
+    margin-top: -320px;
+}
+
+.h105{
+    margin-top: 40px;
+}
+
+.nav_nav{
+    margin-top: 40px;
+}
+
+.h110{
+    margin-top: 30px;
+    color: #EE5514;
+}
+
+.img50{
+    margin-left: 130px;
+    margin-top: -65px;
+}
+
+
+.hayir{
+    margin-left: 800px;
+    margin-top: -320px;
+}
+
+.h115{
+    margin-top: 40px;
+}
+
+.nav_navbar{
+    margin-top: 40px;
+}
+
+.h120{
+    margin-top: 30px;
+    color: #EE5514;
+}
+
+.img70{
+   margin-left: 130px;
+   margin-top: -65px;
+}
+
+.nav_link{
+    color: #EE5514;
+    margin-top: 100px;
+}
+
+.nav_ul{
+    display: flex;
+    
+    
+}
+
+.nav_li{
+    margin: 0 20px;
+    text-decoration: none;
+    color: black;
+}
+ 
+.nav_li:hover{
+  color: #EE5514;
+}
+
+.img80{
+
+    margin-left: 1160px;
+    margin-top: -70px;
+}
+
+.img90{
+    margin-left: 1100px;
+    margin-top: -120px;
+}
+
+
+.krasofka_1{
+    margin-left: 800px;
+}
+
+.puma{
+    margin-left: 850px;
+}
+
+.nike{
+    margin-left: 930px;
+}
+.adidas{
+    margin-left: 855px;
+    margin-top: -35px;
+}
+
+.jordn{
+    margin-left: 960px;
+}
+
+.ayr_max{
+    margin-left: 855px;
+    margin-top: -35px;
+}
+
+.bla{
+    margin-left: 900px;
+    background-color: #EE5514;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.krasofkalar_1{
+    margin-top: -400px;
+    margin-left: 500px;
+}
+
+.Puma_2{
+    margin-left: 80px;
+}
+
+.nike2{
+    margin-left: 150px;
+}
+
+.adidas2{
+    margin-top: -35px;
+    margin-left: 90px;
+}
+
+.jordn2{
+    margin-left: 190px;
+}
+
+.ayr_max2{
+    margin-left: 90px;
+    margin-top: -35px;
+}
+
+.bla2b{
+    margin-left: 20%;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #EE5514;
+    color: #fff;
+}
+
+
+.krasofkalar2{
+    margin-top: -400px;
+    margin-left: 200px;
+}
+
+.puma3{
+    margin-left: 65px;
+}
+
+.nike3{
+  margin-left: 150px;
+
+}
+
+.adidas3{
+   margin-top: -35px;
+   margin-left: 85px;
+}
+
+.jordn3{
+  margin-left: 190px;
+}
+
+.ayr_max3{
+    margin-left: 85px;
+    margin-top: -35px;
+}
+
+.bla3{
+    margin-left: 15%;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #EE5514;
+    color: #fff;
+}
+
+.krasofkalar3{
+    margin-left: -100px;
+    margin-top: -400px;
+}
+
+.nike4{
+  margin-left: 100px;
+}
+
+.adidas4{
+margin-top: -35px;
+margin-left: 20px;
+
+}
+
+
+.jordn4{
+    margin-left: 145px;
+}
+
+
+.ayr_max4{
+    margin-left: 23px;
+    margin-top: -30px;
+}
+
+.bla4{
+ margin-left: 6%;
+ margin-top: 15px;
+ border-radius: 10px;
+ background-color: #EE5514;
+ color: #fff;
+}
+
+
+.wee{
+    margin-left: 30%;
+    margin-top: 20%;
+}
+
+
+.maykl_jordn{
+    margin-top: 100px;
+    margin-left: 1234px;
+}
+
+.maykl_jordn1{
+    margin-left: 100%;
+   margin-top: -5%; 
+}
+
+.maykl_jordn2{
+    margin-left: 65%;
+}
+
+
+.maykl_jordn3{
+    margin-top: 20%;
+    margin-left: -43px;
+}
+
+
+.maykl_jordn4{
+    margin-left: 55%;
+}
+
+.maykl_jordn5{
+    margin-top: 20px;
+    margin-left: 55%;
+}
+
+.maykl_jordn6{
+    margin-top: 20px;
+    margin-left: 55%;
+}
+
+.maykl_jordn7{
+    margin-left: 55%;
+    margin-top: 20px;
+}
+
+.maykl_jordn8{
+    margin-left: -110px;
+    margin-top: -400px;
+}
+
+
+.adidas5{
+    background-color: rgba(0, 192, 240, 0.205);
+    width: 652px;
+    height: 334px;
+    margin-left: 55%;
+}
+.section7{
+    padding-top: 10%;
+
+    .container{
+        background: linear-gradient(90deg, hsl(0, 0%, 100%) 1.14%, rgba(152, 190, 234, 0.405) 70.88%);
+    }
+   h2{
+       width: 100%;
+       padding-top: 10%;
+   }
+   p{
+       padding-top: 10px;
+   }
+   
+}
+
+.section7{
+    margin-left: -30%;
+}
+
+.nav_ol{
+    display: flex;
+    align-items: center;
+}
+
+.p0{
+    margin: 0 90px;
+}
+
+.nav_ol1{
+    display: flex;
+    align-items: center;
+}
+
+.p1{
+    margin: 0 15px;
+}
+
+.nav_ol2{
+    display: flex;
+}
+
+.p2{
+    margin: 0 50px;
+}
+
+
+.img_ul{
+    display: flex;
+}
+
+.title{
+    margin: 0 10px;
+}
+
+.p3{
+    margin-left: 40%;
+}
